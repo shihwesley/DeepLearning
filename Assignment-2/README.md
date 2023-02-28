@@ -1,4 +1,4 @@
-#Assignment - 2a
+# Assignment - 2a
 
 `hugging-face_t5xl`
 
@@ -15,7 +15,7 @@ https://colab.research.google.com/drive/1byDo9HNkN553aEGfVOZJyVIYe7SufjwD?usp=sh
   
 ----------------------------------------------------------------------------
 
-#Assignment - 2b
+# Assignment - 2b
 
 `Advanced-TensorFlow-Primitives`
 

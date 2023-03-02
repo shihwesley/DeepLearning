@@ -3,6 +3,8 @@
 
 * Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)
 
+
+
 `Back Propagation without using relu layer:`
 
 
@@ -13,9 +15,14 @@
 
 * To avoid this underfitting, we use activation function(relu) to introduce non linearity, where it clips all values less than 0 to 0 and leave other values as is.
 
+
+
+
 `After adding relu layer:`
 
 ![image](https://user-images.githubusercontent.com/111466561/222329884-07db27d1-79d9-43a8-a73d-f4874546262a.png)
+
+
 
 
 `After updating weights with lr = 0.01, non-linear function fit the model:`
@@ -24,6 +31,7 @@
 
 
 * Using pytorch and tensorflow framewroks, implemented the above neural network functionality.
+
 
 
 `References:`

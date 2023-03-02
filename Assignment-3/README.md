@@ -3,7 +3,7 @@
 
 * Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)
 
-
+**y = 6x^3 + x^2 + x + 1**
 
 `Back Propagation without using relu layer:`
 

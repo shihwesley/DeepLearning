@@ -23,6 +23,9 @@
 ![image](https://user-images.githubusercontent.com/111466561/222329993-cbbd0da7-af96-4865-8c98-76f2ad109f07.png)
 
 
+* Using pytorch and tensorflow framewroks, implemented the above neural network functionality.
+
+
 `References:`
 
 https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
@@ -35,6 +38,7 @@ https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sh
 
 
 https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9
+
 
 https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9Links to an external site.
 

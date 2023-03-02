@@ -1,9 +1,13 @@
 # Implemented basic asic Neural Network from scratch using NumPy and PyTorch and tensorflow and JAX
 
 
-Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)
+* Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)
 
 `Back Propagation without using relu layer:`
+
+
+![image](https://user-images.githubusercontent.com/111466561/222329717-d50006a0-4d4e-4f19-8c8b-b65a840aad6f.png)
+
 
 
 
@@ -11,10 +15,12 @@ Implemented a 3 layer Neural Network using a 3 variable linear equation(plot rep
 
 `After adding relu layer:`
 
+![image](https://user-images.githubusercontent.com/111466561/222329884-07db27d1-79d9-43a8-a73d-f4874546262a.png)
+
 
 `After updating weights with lr = 0.01, non-linear function fit the model:`
 
-
+![image](https://user-images.githubusercontent.com/111466561/222329993-cbbd0da7-af96-4865-8c98-76f2ad109f07.png)
 
 
 `References:`

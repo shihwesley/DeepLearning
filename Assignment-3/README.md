@@ -11,6 +11,11 @@
 ![image](https://user-images.githubusercontent.com/111466561/222329717-d50006a0-4d4e-4f19-8c8b-b65a840aad6f.png)
 
 
+`Our function against the linear model:`
+
+
+![image](https://user-images.githubusercontent.com/111466561/222330656-a5bfbb55-7194-43d3-95e7-667d8a516b34.png)
+
 
 
 * To avoid this underfitting, we use activation function(relu) to introduce non linearity, where it clips all values less than 0 to 0 and leave other values as is.

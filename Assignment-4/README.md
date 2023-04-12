@@ -1,42 +1,21 @@
-# Implemented basic asic Neural Network from scratch using NumPy and PyTorch and tensorflow and JAX
+# Data augmentation, generalization, network initialization techniques
 
+* **Implemented various regularization techniques and verified accuracy before and after applying these techniques.**
 
-Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)
+a) l1 l2
 
-`Back Propagation without using relu layer:`
+b) dropout
 
+c) earlystop
 
+d) montecarlo dropout
 
-* To avoid this underfitting, we use activation function(relu) to introduce non linearity, where it clips all values less than 0 to 0 and leave other values as is.
+e) various initializations and when to use what
 
-`After adding relu layer:`
+f) batch norm
 
+g) custsom dropout, custom regularization
 
-`After updating weights with lr = 0.01, non-linear function fit the model:`
+Tensor Board is used to visualize the epoch accuracy and epoch loss.
 
-
-
-
-`References:`
-
-https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
-
-
-https://docs.google.com/presentation/d/13Oo5gXwcsoq9oMC4XriAyxkvgicatBxfI4cZzDhRyiE/edit#slide=id.g826a355833_0_525
-
-
-https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
-
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9Links to an external site.
-
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=WavMVtXGQk-z
-
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=SyC7KfV-YcYS
-
-
-https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia?authuser=1#scrollTo=C_2FyZeXjHd1
+<img width="1337" alt="image" src="https://user-images.githubusercontent.com/111466561/231530818-e4523863-cead-4cf3-a8fc-e34f6f7e4ca3.png">

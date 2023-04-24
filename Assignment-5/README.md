@@ -1,42 +1,32 @@
 # Implemented various GPT tasks
 
 
-Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)
+* BabyAGI with langchain:
 
-`Back Propagation without using relu layer:`
-
-
-
-* To avoid this underfitting, we use activation function(relu) to introduce non linearity, where it clips all values less than 0 to 0 and leave other values as is.
-
-`After adding relu layer:`
-
-
-`After updating weights with lr = 0.01, non-linear function fit the model:`
+* AgentGPT:
 
 
 
+* Jarvis hugginggpt:
 
-`References:`
+`HuggingfaceGPT can generate images based on imput text`:
 
-https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
+For example:
 
+<img width="751" alt="Screen Shot 2023-04-20 at 12 40 04 PM" src="https://user-images.githubusercontent.com/111466561/234068663-95dbb182-e210-4c66-a0a5-7614ebf060b3.png">
 
-https://docs.google.com/presentation/d/13Oo5gXwcsoq9oMC4XriAyxkvgicatBxfI4cZzDhRyiE/edit#slide=id.g826a355833_0_525
+<img width="740" alt="Screen Shot 2023-04-20 at 12 40 36 PM" src="https://user-images.githubusercontent.com/111466561/234068765-d0106bb2-58f8-45cd-8ac9-aa93943c4618.png">
 
-
-https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
-
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9Links to an external site.
+<img width="751" alt="Screen Shot 2023-04-20 at 12 39 33 PM" src="https://user-images.githubusercontent.com/111466561/234068317-e06ca563-2b6a-47c1-9406-b4ec02321eba.png">
 
 
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=WavMVtXGQk-z
+* Visual ChatGPT:
+
+<img width="1254" alt="Screen Shot 2023-04-16 at 12 32 05 PM" src="https://user-images.githubusercontent.com/111466561/234068891-4a3d9ee9-bda6-4f0a-8000-937151969630.png">
+
+* OpenAI chat with excel:
 
 
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=SyC7KfV-YcYS
+* semantic kernel:
 
-
-https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia?authuser=1#scrollTo=C_2FyZeXjHd1
+<img width="1440" alt="Screen Shot 2023-04-20 at 2 22 22 PM" src="https://user-images.githubusercontent.com/111466561/234068971-0d306313-989e-4257-a768-84444bb52dce.png">

@@ -1,4 +1,4 @@
-# Implemented basic asic Neural Network from scratch using NumPy and PyTorch and tensorflow and JAX
+# Implemented various GPT tasks
 
 
 Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)

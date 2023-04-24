@@ -8,7 +8,7 @@ Live Demo: https://drive.google.com/file/d/1x_AW1rM0HO_4wMGu3zwEyDUngf99txBc/vie
 
 Live Demo: https://drive.google.com/file/d/13l09wRvAAzNef6UdfnfT7YiH80NblkON/view?usp=share_link
 
-* HuggingfaceGPT can generate images based on imput text
+* HuggingfaceGPT can generate images based on input text
 
 For example:
 

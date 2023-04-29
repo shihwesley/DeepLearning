@@ -1,42 +1,40 @@
-# Implemented basic asic Neural Network from scratch using NumPy and PyTorch and tensorflow and JAX
+# Advanced deep learning pipeline for training which uses a lot of custom components:
 
+a) Saving/Loading Models with Custom Objects
 
-Implemented a 3 layer Neural Network using a 3 variable linear equation(plot reperesenting the equation)
+b) Custom loss function
 
-`Back Propagation without using relu layer:`
+c) custom regularizer
 
+d) custom activation funtion
 
+e) custom initializer
 
-* To avoid this underfitting, we use activation function(relu) to introduce non linearity, where it clips all values less than 0 to 0 and leave other values as is.
+f) custom kernel constraint
 
-`After adding relu layer:`
+g) custom seed
 
+h) custom metrics
 
-`After updating weights with lr = 0.01, non-linear function fit the model:`
+i) custom callback
 
+j) custom layer
 
+k) custom model
 
+l) custom gradient
 
-`References:`
+m) custom training loop
 
-https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
+n) writing custom  tf functions
 
+o) custom optimizer
 
-https://docs.google.com/presentation/d/13Oo5gXwcsoq9oMC4XriAyxkvgicatBxfI4cZzDhRyiE/edit#slide=id.g826a355833_0_525
+p) custom dropout
 
+q) custom regularizer
 
-https://colab.research.google.com/drive/1HS3qbHArkqFlImT2KnF5pcMCz7ueHNvY?usp=sharing&authuser=1#scrollTo=EGkS6nN6dQazLinks to an external site.
+r) custom learning rate scheduler
 
+https://colab.research.google.com/drive/1GhJJcY2VxVAbMqU36y_C6uzazjcdXeLy?usp=sharing
 
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=KC5RgwGeBP-9Links to an external site.
-
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=WavMVtXGQk-z
-
-
-https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO?authuser=1#scrollTo=SyC7KfV-YcYS
-
-
-https://colab.research.google.com/drive/169PfzM0kvtA5UP4k6Sl1yCG9tsE2MLia?authuser=1#scrollTo=C_2FyZeXjHd1

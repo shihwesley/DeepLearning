@@ -36,5 +36,5 @@ q) custom regularizer
 
 r) custom learning rate scheduler
 
-https://colab.research.google.com/drive/1GhJJcY2VxVAbMqU36y_C6uzazjcdXeLy?usp=sharing
+Colab Link: https://colab.research.google.com/drive/1GhJJcY2VxVAbMqU36y_C6uzazjcdXeLy?usp=sharing
 

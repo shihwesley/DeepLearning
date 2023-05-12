@@ -5,9 +5,14 @@
 
 https://colab.research.google.com/drive/10joPtAaufpzoSD4_z4rVzyuMnlQoVZYB?usp=sharing
 
+<img width="797" alt="image" src="https://github.com/SravaniThota96/DeepLearning/assets/111466561/9573924d-2cee-443f-9657-7b5f85056e94">
+
+
 `3D image classication of ctscan:` 
 
 https://colab.research.google.com/drive/1XQRNy-BS8hDe3jpWGQcvQX-p9kwMZ9HJ?usp=sharing
+
+<img width="900" alt="image" src="https://github.com/SravaniThota96/DeepLearning/assets/111466561/09ccf124-4f4a-456f-9ea8-0f543fc1cfb6">
 
 
 `State of art image models - mlp-mixer:`

@@ -29,8 +29,8 @@ Monitor the training progress and adjust the parameters as needed.
 ## Flask Application
 - Set up a virtual environment and install the necessary dependencies:
 `virtualenv env` \
-source env/bin/activate \
-pip install -r requirements.txt` \
+`source env/bin/activate` \
+`pip install -r requirements.txt` \
 - Run the Flask application:
 `python webapp.py`
 - Access the application in a web browser at http://localhost:5000 and upload images or videos for object detection.

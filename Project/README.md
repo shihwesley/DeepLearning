@@ -1,6 +1,6 @@
 # Object-Detection-Web-App-Using-YOLOv7-and-Flask
 
-Object Detection Web App Using YOLOv7 and Flask
+
 
 ## Description
 

@@ -58,8 +58,3 @@ Steps to use:
 ![image8](https://github.com/SravaniThota96/DeepLearning/assets/111466561/34d016b3-1717-4c6f-9895-bc04df282e8f)
 
 
-
-
-https://github.com/SravaniThota96/DeepLearning/assets/111466561/a65cb55c-e8bf-4410-b9e1-f2876470a4a0
-
-

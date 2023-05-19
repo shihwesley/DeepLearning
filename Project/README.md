@@ -54,8 +54,9 @@ Steps to use:
 
 ![image3](https://github.com/SravaniThota96/DeepLearning/assets/111466561/3fc38386-afd1-4e86-a01b-7663ec62ef56)
 
-![image6](https://github.com/SravaniThota96/DeepLearning/assets/111466561/68ad616d-3451-46b1-bccd-0c80f78ab2b7)
+![image6](https://github.com/SravaniThota96/DeepLearning/assets/111466561/17fc7359-865e-4464-8c38-ab0dcf0aa42a)
 
 ![image8](https://github.com/SravaniThota96/DeepLearning/assets/111466561/34d016b3-1717-4c6f-9895-bc04df282e8f)
+
 
 

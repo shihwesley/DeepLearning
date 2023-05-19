@@ -47,6 +47,7 @@ Steps to use:
 
 5- Open 127.0.0.1:5000
 
+<img width="368" alt="image" src="https://github.com/SravaniThota96/DeepLearning/assets/111466561/6c48e38c-8291-4c33-a8de-b4d5ced8a03a">
 
 
 6- Upload Image or video to test.

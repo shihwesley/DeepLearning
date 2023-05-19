@@ -47,5 +47,17 @@ Steps to use:
 
 5- Open 127.0.0.1:5000
 
+
+
 6- Upload Image or video to test.
+
+![image3](https://github.com/SravaniThota96/DeepLearning/assets/111466561/3fc38386-afd1-4e86-a01b-7663ec62ef56)
+
+![image6](https://github.com/SravaniThota96/DeepLearning/assets/111466561/68ad616d-3451-46b1-bccd-0c80f78ab2b7)
+
+![image8](https://github.com/SravaniThota96/DeepLearning/assets/111466561/34d016b3-1717-4c6f-9895-bc04df282e8f)
+
+
+
+https://github.com/SravaniThota96/DeepLearning/assets/111466561/02108073-4273-4bb9-aa6b-ddcec17e3888
 

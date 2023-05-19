@@ -28,7 +28,7 @@ Monitor the training progress and adjust the parameters as needed.
 
 ## Flask Application
 - Set up a virtual environment and install the necessary dependencies:
-`virtualenv env \
+`virtualenv env` \
 source env/bin/activate \
 pip install -r requirements.txt` \
 - Run the Flask application:

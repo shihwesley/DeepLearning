@@ -59,4 +59,6 @@ Steps to use:
 ![image8](https://github.com/SravaniThota96/DeepLearning/assets/111466561/34d016b3-1717-4c6f-9895-bc04df282e8f)
 
 
+Since the weights file is too big to push to git. I have copied it to drive. Please find link here:
+`https://drive.google.com/file/d/1TeOIEfY2de_mEEObZjReO9VIcOt0ilVA/view?usp=sharing`
 
